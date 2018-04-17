@@ -1,1 +1,1 @@
-# Insta-bot
+# InstaFake
