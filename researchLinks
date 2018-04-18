@@ -2,6 +2,13 @@ pyautogui resources:
 https://automatetheboringstuff.com/chapter18/
 http://pyautogui.readthedocs.io/en/latest/cheatsheet.html
 
+beautifulSoup4/Web Scraping resource:
+http://automatetheboringstuff.com/chapter11/
+
+Working with CSVs, JSON, and Excel spreadsheets:
+http://automatetheboringstuff.com/chapter14/
+http://automatetheboringstuff.com/chapter12/
+
 Example script that generates gmail accounts with pyautogui (Not tested):
 https://github.com/unix121/gmail-generator
 
