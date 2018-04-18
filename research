@@ -1,0 +1,7 @@
+pyautogui resources:
+https://automatetheboringstuff.com/chapter18/
+http://pyautogui.readthedocs.io/en/latest/cheatsheet.html
+
+Example script that generates gmail accounts with pyautogui (Not tested):
+https://github.com/unix121/gmail-generator
+
