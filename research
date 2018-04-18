@@ -1,9 +1,0 @@
-pyautogui resources:
-https://automatetheboringstuff.com/chapter18/
-http://pyautogui.readthedocs.io/en/latest/cheatsheet.html
-
-Example script that generates gmail accounts with pyautogui (Not tested):
-https://github.com/unix121/gmail-generator
-
-icrawler:another mini framework of web crawle/It also provides built-in crawlers for popular image sites like Flickr and search engines such as Google, Bing and Baidu.
-https://github.com/hellock/icrawler/blob/master/requirements.txt
